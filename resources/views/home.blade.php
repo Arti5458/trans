@@ -59,7 +59,7 @@
                                 <div class="col-sm-6 col-xs-12">
                                     <div class="call-to-action">
                                         <ul class="list-inline">
-                                            <li><a href="#"><i class="fa fa-phone"></i> 1-800-987-654</a></li>
+                                            <li><a href="#"><i class="fa fa-phone"></i> +375 44 561-39-04</a></li>
                                             <li><a href="#"><i class="fa fa-envelope"></i> admin@domain.com</a></li>
                                         </ul>
                                     </div><!-- /.call-to-action -->
@@ -67,15 +67,7 @@
 
                                 <div class="col-sm-6 hidden-xs">
                                     <div class="topbar-right">
-                                        <div class="lang-support pull-right">
-                                            <select class="cs-select cs-skin-elastic">
-                                                <option value="" disabled selected>Language</option>
-                                                <option value="united-kingdom" data-class="flag-uk">English</option>
-                                                <option value="france" data-class="flag-france">French</option>
-                                                <option value="spain" data-class="flag-spain">Spanish</option>
-                                                <option value="south-africa" data-class="flag-bd">Bengali</option>
-                                            </select>
-                                        </div>
+
 
                                         <ul class="social-links list-inline pull-right">
                                             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -122,23 +114,22 @@
 
                             <ul class="nav navbar-nav navbar-right">
                                 <!-- Home -->
-                                <li class="dropdown active"><a href="{{ route('home') }}">Home</a>
+                                <li class="dropdown active"><a href="{{ route('home') }}">Главная</a>
 
                                 </li>
                                 <!-- /Home -->
 
                                 <!-- Pages -->
-                                <li class="dropdown"><a href="#">Pages <span class="fa fa-angle-down"></span></a>
+                                <li class="dropdown"><a href="#">Подробнее об услугах <span class="fa fa-angle-down"></span></a>
                                     <!-- submenu-wrapper -->
                                     <div class="submenu-wrapper">
                                         <div class="submenu-inner">
                                             <ul class="dropdown-menu">
-                                                <li><a href="about.html">About</a></li>
-                                                <li><a href="service.html">Service</a></li>
-                                                <li><a href="our-people.html">Our people</a></li>
-                                                <li><a href="career.html">Career</a></li>
-                                                <li><a href="faq.html">FAQ Page</a></li>
-                                                <li><a href="typography.html">Typography</a></li>
+                                                <li><a href="about.html">Доставка посылок из Москвы</a></li>
+                                                <li><a href="service.html">Доставка посылок в Москву</a></li>
+                                                <li><a href="our-people.html">Помощь в покупке товаров в Москве</a></li>
+                                                <li><a href="career.html">Доставка автозапчастей в Минск</a></li>
+                                                <li><a href="faq.html">Доставка в Беларусь товаров из IKEA</a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -147,105 +138,8 @@
                                 <!-- /Pages -->
 
                                 <!-- Services -->
-                                <li class="dropdown"><a href="#">Services <span class="fa fa-angle-down"></span></a>
-                                    <!-- submenu-wrapper -->
-                                    <div class="submenu-wrapper">
-                                        <div class="submenu-inner">
-                                            <ul class="dropdown-menu">
-                                                <li><a href="air.html">Air transportation</a></li>
-                                                <li><a href="marine.html">Marine transportation</a></li>
-                                                <li><a href="moving.html">Moving & storage</a></li>
-                                                <li><a href="shipping.html">Shipping & operations</a></li>
-                                                <li><a href="transportation.html">Transportation logistics</a></li>
-                                                <li><a href="trucking.html">Trucking</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <!-- /submenu-wrapper -->
-                                </li>
-                                <!-- MEGA MENU -->
-                                <li class="dropdown mega-fw has-megamenu"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Features <span class="fa fa-angle-down"></span></a>
-                                    <!-- megamenu-wrapper -->
-                                    <div class="submenu-wrapper megamenu-wrapper">
-                                        <div class="submenu-inner megamenu-inner">
-
-                                            <ul class="dropdown-menu">
-                                                <li>
-                                                    <div class="mega-content">
-                                                        <div class="row">
-
-                                                            <div class="col-sm-3 mega-col">
-                                                                <ul>
-                                                                    <li class="dropdown-header">Features</li>
-                                                                    <li><a href="#">100% Responsive</a></li>
-                                                                    <li><a href="#">Animations</a></li>
-                                                                    <li><a href="#">Bootstrap 3+</a></li>
-                                                                    <li><a href="#">Valid Markups</a></li>
-                                                                    <li><a href="#">Mega Menu</a></li>
-                                                                    <li><a href="#">Free Supports And Update</a></li>
-                                                                </ul>
-                                                            </div><!-- /.col -->
-
-
-                                                            <div class="col-sm-3 mega-col">
-                                                                <ul>
-                                                                    <li class="dropdown-header">Pages</li>
-                                                                    <li><a href="about.html">About</a></li>
-                                                                    <li><a href="service.html">Service</a></li>
-                                                                    <li><a href="our-people.html">Our people</a></li>
-                                                                    <li><a href="career.html">Career</a></li>
-                                                                    <li><a href="faq.html">FAQ Page</a></li>
-                                                                    <li><a href="typography.html">Typography</a></li>
-                                                                </ul>
-                                                            </div><!-- /.col-->
-
-
-                                                            <div class="col-sm-3 mega-col">
-                                                                <ul>
-                                                                    <li class="dropdown-header">Services</li>
-                                                                    <li><a href="air.html">Air transportation</a></li>
-                                                                    <li><a href="marine.html">Marine transportation</a></li>
-                                                                    <li><a href="moving.html">Moving & storage</a></li>
-                                                                    <li><a href="shipping.html">Shipping & operations</a></li>
-                                                                    <li><a href="transportation.html">Transportation logistics</a></li>
-                                                                    <li><a href="trucking.html">Trucking</a></li>
-                                                                </ul>
-                                                            </div><!-- /.col-->
-
-
-                                                            <div class="col-sm-3 mega-col">
-                                                                <ul>
-                                                                    <li class="dropdown-header">Typography</li>
-                                                                    <li><a href="#">Bootstrap grids</a></li>
-                                                                    <li><a href="#">Google fonts</a></li>
-                                                                    <li><a href="#">Fontawesome icons</a></li>
-                                                                    <li><a href="#">Flat icons</a></li>
-                                                                    <li><a href="#">Tabs</a></li>
-                                                                    <li><a href="#">Button elements</a></li>
-                                                                </ul>
-                                                            </div><!-- /.col -->
-                                                        </div><!-- /.row -->
-                                                    </div><!-- /.mega-content -->
-                                                </li>
-                                            </ul><!-- /.dropdown menu -->
-                                        </div><!-- /.megamenu-inner -->
-                                    </div> <!-- /.megamenu-wrapper -->
-                                </li> <!-- /MEGA MENU -->
-                                <!-- /Pages -->
-                                <!-- Blog -->
-                                <li class="dropdown"><a href="#">Blog <span class="fa fa-angle-down"></span></a>
-                                    <!-- submenu-wrapper -->
-                                    <div class="submenu-wrapper">
-                                        <div class="submenu-inner">
-                                            <ul class="dropdown-menu">
-                                                <li><a href="blog.html">Standard blog</a></li>
-                                                <li><a href="blog-single.html">Single blog</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <!-- /submenu-wrapper -->
-                                </li>
-                                <li><a href="contact.html">Contact</a></li>
+                                <li class="dropdown"><a href="#">Цены </a></li>
+                                <li><a href="contact.html">Контакты</a></li>
                             </ul>
                         </div><!-- /.navbar-collapse -->
                     </div><!-- /.container -->
@@ -258,7 +152,7 @@
                 <!-- Indicators -->
                 <ol class="carousel-indicators">
                     <li data-target="#main-carousel" data-slide-to="0" class="active"></li>
-                    <li data-target="#main-carousel" data-slide-to="1"></li>
+{{--                    <li data-target="#main-carousel" data-slide-to="1"></li>--}}
                 </ol>
 
                 <!-- Wrapper for slides -->
@@ -269,15 +163,15 @@
 
                         <div class="container">
                             <div class="carousel-caption">
-                                <small class="animated fadeIn">CALL US TODAY</small>
-                                <div class="phone animated lightSpeedIn">1-800-1234-567</div>
-                                <h1 class="animated lightSpeedIn">Making transportation fast and safe</h1>
+                                <small class="animated fadeIn">Позвоните нам сегодня!</small>
+                                <div class="phone animated lightSpeedIn">+375 44 561-39-04</div>
+                                <h1 class="animated lightSpeedIn">ДОСТАВКА ПОСЫЛОК ИЗ МОСКВЫ</h1>
 
-                                <p class="lead animated lightSpeedIn">It's a tag line, where you can write a key point of your idea.
-                                    It is a long
-                                    established fact that a reader will be distracted.</p>
+                                <p class="lead animated lightSpeedIn">Мы не только заберем вашу посылку <br> в любой точке Москвы,
+                                    но и, при необходимости,<br> оплатим выбранный товар в любом магазине <br> или интернет-магазине
+                                    столицы и организуем доставку в Беларусь по нужному адресу. Также доставляем любые посылки из Беларуси в Москву.</p>
 
-                                <a class="btn btn-primary animated lightSpeedIn" href="#">Work With Us Today</a>
+                                <a class="btn btn-primary animated lightSpeedIn" href="#">ВСЕГО ОТ 26,00 БЕЛОРУССКИХ РУБЛЕЙ</a>
                             </div>
                             <!--.carousel-caption-->
                         </div>
@@ -285,24 +179,24 @@
                     </div>
                     <!--.item-->
 
-                    <div class="item">
-                        <img src="img/slider/slide-2.jpg" alt="Hero Slide">
-                        <!--Slide Image-->
+{{--                    <div class="item">--}}
+{{--                        <img src="img/slider/slide-2.jpg" alt="Hero Slide">--}}
+{{--                        <!--Slide Image-->--}}
 
-                        <div class="container">
-                            <div class="carousel-caption">
+{{--                        <div class="container">--}}
+{{--                            <div class="carousel-caption">--}}
 
-                                <h1 class="animated bounceIn">We value your time and money</h1>
+{{--                                <h1 class="animated bounceIn">We value your time and money</h1>--}}
 
-                                <p class="lead animated bounceIn">It's a tag line, where you can write a key point of your idea. It
-                                    is a long
-                                    established fact that a reader will be distracted.</p>
-                                <a class="btn btn-primary animated bounceIn" href="#">Work With Us Today</a>
-                            </div>
-                            <!--.carousel-caption-->
-                        </div>
-                        <!--.container-->
-                    </div>
+{{--                                <p class="lead animated bounceIn">It's a tag line, where you can write a key point of your idea. It--}}
+{{--                                    is a long--}}
+{{--                                    established fact that a reader will be distracted.</p>--}}
+{{--                                <a class="btn btn-primary animated bounceIn" href="#">Work With Us Today</a>--}}
+{{--                            </div>--}}
+{{--                            <!--.carousel-caption-->--}}
+{{--                        </div>--}}
+{{--                        <!--.container-->--}}
+{{--                    </div>--}}
                     <!--.item-->
                 </div>
                 <!--.carousel-inner-->
@@ -325,8 +219,8 @@
                 <div class="container text-center">
                     <div class="row">
                         <div class="col-xs-12">
-                            <h2 class="section-title">Our 24 Hour’s Services</h2>
-                            <span class="section-sub">Nullam ac urna ey felis dapibus<br> condimeytum sit amet</span>
+                            <h2 class="section-title">ДОБРО ПОЖАЛОВАТЬ!</h2>
+                            <span class="section-sub">Ищете курьера для доставки посылки из Москвы? <br>Вы его нашли!)</span>
                         </div>
                     </div> <!-- /.row -->
 
@@ -337,9 +231,9 @@
                                     <a href="#"><img src="img/trans.jpg" alt=""></a>
                                 </div>
 
-                                <h3>Transportation &amp; Logistics</h3>
-                                <p>Holisticly synergize maintainable intellectual<br> capital via viral interfaces. Energistically<br> embrace funyctionalized </p>
-                                <a class="readmore" href="#">Read More &nbsp;<i class="fa fa-angle-right"></i> </a>
+                                <h3>БЫСТРАЯ ДОСТАВКА</h3>
+                                <p>Обычная доставка посылок занимает от 2 до 5 дней, срочная за 24 часа… </p>
+                                <a class="readmore" href="#">Больше &nbsp;<i class="fa fa-angle-right"></i> </a>
                             </div>
                         </div><!-- /.col-sm-4 -->
 
@@ -348,9 +242,9 @@
                                 <div class="service-thumb-home">
                                     <a href="#"><img src="img/moving.jpg" alt=""></a>
                                 </div>
-                                <h3>Moving &amp; Storage</h3>
-                                <p>Holisticly synergize maintainable intellectual<br> capital via viral interfaces. Energistically<br> embrace functionalized </p>
-                                <a class="readmore" href="#">Read More &nbsp;<i class="fa fa-angle-right"></i> </a>
+                                <h3>ЛЮБЫЕ ОБЪЕМЫ</h3>
+                                <p>Мы доставляем товары от 1 грамма до 6 тонн с любыми условиями транспортировки…</p>
+                                <a class="readmore" href="#">Больше &nbsp;<i class="fa fa-angle-right"></i> </a>
                             </div>
 
                         </div><!-- /.col-sm-4 -->
@@ -360,9 +254,9 @@
                                 <div class="service-thumb-home">
                                     <a href="#"><img src="img/shipping.jpg" alt=""></a>
                                 </div>
-                                <h3>Shipping Operations</h3>
-                                <p>Holisticly synergize maintainable intellectual<br> capital via viral interfaces. Energistically<br> embrace functionalized </p>
-                                <a class="readmore" href="#">Read More &nbsp;<i class="fa fa-angle-right"></i> </a>
+                                <h3>ЛЮБАЯ ФОРМА ОПЛАТЫ</h3>
+                                <p>Работаем как с физическими, так и с юридическими лицами…</p>
+                                <a class="readmore" href="#">Больше &nbsp;<i class="fa fa-angle-right"></i> </a>
                             </div>
                         </div><!-- /.col-sm-4 -->
                     </div> <!-- /.row -->
@@ -375,13 +269,13 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-7 col-xs-12">
-                            <h2>We do care about your cargo!</h2>
+                            <h2>ДОБРО ПОЖАЛОВАТЬ!</h2>
 
-                            <p>Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non  mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
+                            <p>Служба курьерской доставки «БыстроЛёт» рада приветствовать вас на своем сайте. Будем надеяться, что сотрудничество с нами принесет вам только положительные эмоции и отличное настроение. Знакомьтесь с нашими услугами!</p>
 
-                            <p>Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi. Proin condimentum fermentum nunc. Etiam pharetra, erat sed fermentum feugiat, velit mauris egestas quam, ut aliquam massa nisl quis neque. Suspendisse in orci enim.</p>
+{{--                            <p>Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi. Proin condimentum fermentum nunc. Etiam pharetra, erat sed fermentum feugiat, velit mauris egestas quam, ut aliquam massa nisl quis neque. Suspendisse in orci enim.</p>--}}
 
-                            <a href="#" class="btn btn-primary">View Details</a>
+                            <a href="#" class="btn btn-primary">Подробнее об услугах</a>
                         </div>
 
                     </div>
@@ -394,8 +288,8 @@
                 <div class="container">
                     <div class="row text-center">
                         <div class="col-xs-12">
-                            <h2 class="section-title">Why Chose Us</h2>
-                            <span class="section-sub">Monotonectally innovate cross-media<br> resources without seamless</span>
+                            <h2 class="section-title">4 простых шага!</h2>
+{{--                            <span class="section-sub">Monotonectally innovate cross-media<br> resources without seamless</span>--}}
                         </div>
                     </div> <!-- /.row -->
 
@@ -495,8 +389,8 @@
                 <div class="container text-center">
                     <div class="row">
                         <div class="col-xs-12">
-                            <h2 class="section-title">We are Trusted By</h2>
-                            <span class="section-sub">Monotonectally innovate cross-media<br> resources without seamless</span>
+                            <h2 class="section-title">Нам доверяют!</h2>
+                            <span class="section-sub">Взгляниете на несколько отзывов о нашей компании</span>
                         </div>
                     </div> <!-- /.row -->
 
@@ -590,17 +484,17 @@
                     <div class="row">
                         <div class="col-sm-4 col-xs-12">
                             <div class="counter-block">
-                                <span class="count-description flaticon-boat"><strong class="timer">799</strong>order delivered</span>
+                                <span class="count-description flaticon-boat"><strong class="timer">999</strong> заказов доставлено</span>
                             </div>
                         </div>
                         <div class="col-sm-4 col-xs-12">
                             <div class="counter-block">
-                                <span class="count-description flaticon-international"><strong class="timer">19</strong>order delivered</span>
+                                <span class="count-description flaticon-international"><strong class="timer">5</strong>стран доставки</span>
                             </div>
                         </div>
                         <div class="col-sm-4 col-xs-12">
                             <div class="counter-block">
-                                <span class="count-description flaticon-compass"><strong class="timer">521</strong>order delivered</span>
+                                <span class="count-description flaticon-compass"><strong class="timer">521</strong>что то еще..</span>
                             </div>
                         </div>
                     </div> <!-- /.row -->
@@ -609,77 +503,77 @@
             <!-- counter end -->
 
             <!-- cta start -->
-            <section class="cta-section">
-                <div class="container text-center">
-                    <a data-toggle="modal" data-target="#quoteModal" href="#" class="btn btn-primary quote-btn">Get a Quote</a>
+{{--            <section class="cta-section">--}}
+{{--                <div class="container text-center">--}}
+{{--                    <a data-toggle="modal" data-target="#quoteModal" href="#" class="btn btn-primary quote-btn">Get a Quote</a>--}}
 
-                    <!-- Modal -->
-                    <div class="modal fade" id="quoteModal" tabindex="-1" role="dialog" aria-labelledby="quoteModalLabel" aria-hidden="true">
-                        <div class="modal-dialog modal-lg">
-                            <div class="modal-content">
-                                <div class="modal-header">
-                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                                    <h3 class="modal-title" id="quoteModalLabel">Request a rate for the shipping of your goods.</h3>
-                                </div>
-                                <div class="modal-body">
-                                    <form id="contactForm" action="sendemail.php" method="POST">
-                                        <div class="row">
-                                            <div class="col-md-6">
-                                                <div class="form-group">
-                                                    <label for="name">Name</label>
-                                                    <input id="name" name="name" type="text" class="form-control"  required="" placeholder="">
-                                                </div>
-                                            </div>
-                                            <div class="col-md-6">
-                                                <div class="form-group">
-                                                    <label for="company">Company Name</label>
-                                                    <input id="company" name="company" type="text" class="form-control" placeholder="">
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="row">
-                                            <div class="col-md-6">
-                                                <div class="form-group">
-                                                    <label for="phone">Phone Number</label>
-                                                    <input id="phone" name="phone" type="text" class="form-control" placeholder="">
-                                                </div>
-                                            </div>
-                                            <div class="col-md-6">
-                                                <div class="form-group">
-                                                    <label for="email">Email address</label>
-                                                    <input id="email" name="email" type="email" class="form-control" required="" placeholder="">
-                                                </div>
-                                            </div>
-                                        </div>
+{{--                    <!-- Modal -->--}}
+{{--                    <div class="modal fade" id="quoteModal" tabindex="-1" role="dialog" aria-labelledby="quoteModalLabel" aria-hidden="true">--}}
+{{--                        <div class="modal-dialog modal-lg">--}}
+{{--                            <div class="modal-content">--}}
+{{--                                <div class="modal-header">--}}
+{{--                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>--}}
+{{--                                    <h3 class="modal-title" id="quoteModalLabel">Request a rate for the shipping of your goods.</h3>--}}
+{{--                                </div>--}}
+{{--                                <div class="modal-body">--}}
+{{--                                    <form id="contactForm" action="sendemail.php" method="POST">--}}
+{{--                                        <div class="row">--}}
+{{--                                            <div class="col-md-6">--}}
+{{--                                                <div class="form-group">--}}
+{{--                                                    <label for="name">Name</label>--}}
+{{--                                                    <input id="name" name="name" type="text" class="form-control"  required="" placeholder="">--}}
+{{--                                                </div>--}}
+{{--                                            </div>--}}
+{{--                                            <div class="col-md-6">--}}
+{{--                                                <div class="form-group">--}}
+{{--                                                    <label for="company">Company Name</label>--}}
+{{--                                                    <input id="company" name="company" type="text" class="form-control" placeholder="">--}}
+{{--                                                </div>--}}
+{{--                                            </div>--}}
+{{--                                        </div>--}}
+{{--                                        <div class="row">--}}
+{{--                                            <div class="col-md-6">--}}
+{{--                                                <div class="form-group">--}}
+{{--                                                    <label for="phone">Phone Number</label>--}}
+{{--                                                    <input id="phone" name="phone" type="text" class="form-control" placeholder="">--}}
+{{--                                                </div>--}}
+{{--                                            </div>--}}
+{{--                                            <div class="col-md-6">--}}
+{{--                                                <div class="form-group">--}}
+{{--                                                    <label for="email">Email address</label>--}}
+{{--                                                    <input id="email" name="email" type="email" class="form-control" required="" placeholder="">--}}
+{{--                                                </div>--}}
+{{--                                            </div>--}}
+{{--                                        </div>--}}
 
-                                        <div class="row">
-                                            <div class="col-md-6">
-                                                <div class="form-group">
-                                                    <label for="city">City Name</label>
-                                                    <input id="city" name="city" type="text" class="form-control" placeholder="">
-                                                </div>
-                                            </div>
-                                            <div class="col-md-6">
-                                                <div class="form-group">
-                                                    <label for="subject">Subject</label>
-                                                    <input id="subject" name="subject" type="text" class="form-control" required="" placeholder="">
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="form-group text-area">
-                                            <label for="message">Your Message</label>
-                                            <textarea id="message" name="message" class="form-control" rows="6" required="" placeholder=""></textarea>
-                                        </div>
+{{--                                        <div class="row">--}}
+{{--                                            <div class="col-md-6">--}}
+{{--                                                <div class="form-group">--}}
+{{--                                                    <label for="city">City Name</label>--}}
+{{--                                                    <input id="city" name="city" type="text" class="form-control" placeholder="">--}}
+{{--                                                </div>--}}
+{{--                                            </div>--}}
+{{--                                            <div class="col-md-6">--}}
+{{--                                                <div class="form-group">--}}
+{{--                                                    <label for="subject">Subject</label>--}}
+{{--                                                    <input id="subject" name="subject" type="text" class="form-control" required="" placeholder="">--}}
+{{--                                                </div>--}}
+{{--                                            </div>--}}
+{{--                                        </div>--}}
+{{--                                        <div class="form-group text-area">--}}
+{{--                                            <label for="message">Your Message</label>--}}
+{{--                                            <textarea id="message" name="message" class="form-control" rows="6" required="" placeholder=""></textarea>--}}
+{{--                                        </div>--}}
 
-                                        <button type="submit" class="btn btn-primary">Send Message</button>
-                                    </form>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+{{--                                        <button type="submit" class="btn btn-primary">Send Message</button>--}}
+{{--                                    </form>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
 
-                </div><!-- /.container -->
-            </section><!-- /.cta-section -->
+{{--                </div><!-- /.container -->--}}
+{{--            </section><!-- /.cta-section -->--}}
             <!-- cta end -->
 
             <!-- footer-widget-section start -->
@@ -688,62 +582,61 @@
                     <div class="row">
                         <div class="col-md-3 col-md-offset-1 col-sm-4">
                             <div class="footer-widget">
-                                <h3>Place &amp; Contact</h3>
+                                <h3>Адреса и контакты</h3>
 
                                 <address>
-                                    384 Maple Circle<br>
-                                    Simi Valley, Nevada 47424<br>
+                                    Минск<br>
+                                    какой то адрес<br>
 
                                     <!-- Google Map Modal Trigger -->
-                                    <button type="button" class="modal-map" data-toggle="modal" data-target="#cssMapModal">Location  Map</button>
+{{--                                    <button type="button" class="modal-map" data-toggle="modal" data-target="#cssMapModal">Location  Map</button>--}}
 
-                                    <span class="tel">(554) 616-9926</span>
+                                    <span class="tel">+375 44 561-39-04</span>
                                 </address>
 
 
                                 <!-- Modal -->
-                                <div class="modal fade" id="cssMapModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-                                    <div class="modal-dialog modal-lg">
-                                        <div class="modal-content">
-                                            <div class="modal-header">
-                                                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                                                <h4 class="modal-title" id="myModalLabel">Our Location</h4>
-                                            </div>
-                                            <div class="modal-body">
+{{--                                <div class="modal fade" id="cssMapModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">--}}
+{{--                                    <div class="modal-dialog modal-lg">--}}
+{{--                                        <div class="modal-content">--}}
+{{--                                            <div class="modal-header">--}}
+{{--                                                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>--}}
+{{--                                                <h4 class="modal-title" id="myModalLabel">Our Location</h4>--}}
+{{--                                            </div>--}}
+{{--                                            <div class="modal-body">--}}
 
-                                                <div id="googleMap"></div>
+{{--                                                <div id="googleMap"></div>--}}
 
-                                            </div>
-                                        </div><!-- /.modal-content -->
-                                    </div><!-- /.modal-dialog -->
-                                </div><!-- End Modal -->
+{{--                                            </div>--}}
+{{--                                        </div><!-- /.modal-content -->--}}
+{{--                                    </div><!-- /.modal-dialog -->--}}
+{{--                                </div><!-- End Modal -->--}}
                             </div><!-- /.footer-widget -->
                         </div><!-- /.col-md-4 -->
 
                         <div class="col-md-3 col-sm-4">
                             <div class="footer-widget">
-                                <h3>About Transport</h3>
+                                <h3>Доставка</h3>
 
                                 <ul>
-                                    <li><a href="about.html">About</a></li>
-                                    <li><a href="service.html">Service</a></li>
-                                    <li><a href="our-people.html">Our people</a></li>
-                                    <li><a href="career.html">Career</a></li>
-                                    <li><a href="faq.html">FAQ Page</a></li>
+                                    <li><a href="about.html">О нас</a></li>
+                                    <li><a href="service.html">Цены</a></li>
+                                    <li><a href="our-people.html">Доставка из Москвы</a></li>
+                                    <li><a href="our-people.html">Доставка в Москву</a></li>
                                 </ul>
                             </div><!-- /.footer-widget -->
                         </div><!-- /.col-md-4 -->
 
                         <div class="col-md-4 col-sm-4">
                             <div class="footer-widget">
-                                <h3>Stay in Touch</h3>
-                                <p>Enter your email address to receive news &amp; offers from us</p>
+                                <h3>Давайте оставайтся на свзяи!</h3>
+                                <p>Оставьте свой email и получите скидку на доставку!</p>
 
                                 <form class="newsletter-form">
                                     <div class="form-group">
-                                        <label class="sr-only" for="InputEmail1">Email address</label>
-                                        <input type="email" class="form-control" id="InputEmail1" placeholder="Your email address">
-                                        <button type="submit" class="">Send &nbsp;<i class="fa fa-angle-right"></i></button>
+                                        <label class="sr-only" for="InputEmail1">Ваш email</label>
+                                        <input type="email" class="form-control" id="InputEmail1" placeholder="Ваш email">
+                                        <button type="submit" class="">Оставить<i class="fa fa-angle-right"></i></button>
                                     </div>
                                 </form>
                             </div><!-- /.footer-widget -->
@@ -756,16 +649,16 @@
             <!-- copyright-section start -->
             <footer class="copyright-section">
                 <div class="container text-center">
-                    <div class="footer-menu">
-                        <ul>
-                            <li><a href="#">Privacy &amp; Cookies</a></li>
-                            <li><a href="#">Terms &amp; Conditions</a></li>
-                            <li><a href="#">Accessibility</a></li>
-                        </ul>
-                    </div>
+{{--                    <div class="footer-menu">--}}
+{{--                        <ul>--}}
+{{--                            <li><a href="#">Privacy &amp; Cookies</a></li>--}}
+{{--                            <li><a href="#">Terms &amp; Conditions</a></li>--}}
+{{--                            <li><a href="#">Accessibility</a></li>--}}
+{{--                        </ul>--}}
+{{--                    </div>--}}
 
                     <div class="copyright-info">
-                        <span>Copyright © 2015 Unship. All Rights Reserved. Designed by <a href="https://uicookies.com">uiCookies</a><br> Proudly powered by <a href="http://www.w3schools.com/html/html5_intro.asp">HTML5</a> and <a href="getbootstrap.com">Bootstrap3</a></span>
+                        <span>Доставка-бай © 2020 Курьерская служба доставки из России в Беларусь. </span>
                     </div>
                 </div><!-- /.container -->
             </footer>
@@ -782,7 +675,7 @@
             <ul id ="offcanvasMenu" class="list-unstyled visible-xs visible-sm">
                 <li class="active"><a href="index.html">Home<span class="sr-only">(current)</span></a></li>
                 <li>
-                    <a href="#">Pages</a>
+                    <a href="#">Подробнее об услугах</a>
                     <ul>
                         <li><a href="about.html">About</a></li>
                         <li><a href="service.html">Service</a></li>
@@ -825,14 +718,14 @@
                     <div class="twitter-widget"></div>
                 </div>
                 <div class="newsletter-widget">
-                    <h2>Stay in Touch</h2>
-                    <p>Enter your email address to receive news &amp; offers from us</p>
+                    <h2>Оставайтесь на свзяи!</h2>
+                    <p>Оставьте свой email и получите скидку на доставку!</p>
 
                     <form class="newsletter-form">
                         <div class="form-group">
-                            <label class="sr-only" for="InputEmail1">Email address</label>
-                            <input type="email" class="form-control" id="InputEmail2" placeholder="Your email address">
-                            <button type="submit" class="btn">Send &nbsp;<i class="fa fa-angle-right"></i></button>
+                            <label class="sr-only" for="InputEmail1">Ваш email</label>
+                            <input type="email" class="form-control" id="InputEmail2" placeholder="Ваш email">
+                            <button type="submit" class="btn">Оставить <i class="fa fa-angle-right"></i></button>
                         </div>
                     </form>
 
