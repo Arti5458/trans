@@ -89,7 +89,7 @@
 
                     <div class="container mainnav">
                         <div class="navbar-header">
-                            <h1 class="logo"><a class="navbar-brand" href="index.html"><img src="img/logo.png" alt=""></a></h1>
+                            <h1 class="logo"><a class="navbar-brand" href="{{ route('home') }}"><img src="img/logo.png" alt=""></a></h1>
 
                             <!-- offcanvas-trigger -->
                             <button type="button" class="navbar-toggle collapsed pull-right" >
@@ -114,7 +114,7 @@
                                 <!-- /Home -->
 
                                 <!-- Pages -->
-                                <li class="dropdown"><a href="#">Подробнее об услугах <span class="fa fa-angle-down"></span></a>
+                                <li class="dropdown"><a href="{{ route('services') }}">Подробнее об услугах <span class="fa fa-angle-down"></span></a>
                                     <!-- submenu-wrapper -->
                                     <div class="submenu-wrapper">
                                         <div class="submenu-inner">
