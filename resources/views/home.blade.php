@@ -59,7 +59,7 @@
                                 <div class="col-sm-6 col-xs-12">
                                     <div class="call-to-action">
                                         <ul class="list-inline">
-                                            <li><a href="#"><i class="fa fa-phone"></i> +375 44 561-39-04</a></li>
+                                            <li><a href="#"><i class="fa fa-phone"></i> +375 25 791 03 07</a></li>
                                             <li><a href="#"><i class="fa fa-envelope"></i> mosdostavka@gmail.com/</a></li>
                                         </ul>
                                     </div><!-- /.call-to-action -->
@@ -158,7 +158,7 @@
                         <div class="container">
                             <div class="carousel-caption">
                                 <small class="animated fadeIn">Позвоните нам сегодня!</small>
-                                <div class="phone animated lightSpeedIn">+375 44 561-39-04</div>
+                                <div class="phone animated lightSpeedIn">+375 25 791 03 07</div>
                                 <h1 class="animated lightSpeedIn">ДОСТАВКА ПОСЫЛОК ИЗ МОСКВЫ</h1>
 
                                 <p class="lead animated lightSpeedIn">Мы не только заберем вашу посылку <br> в любой точке Москвы,
@@ -587,7 +587,7 @@
                                     <!-- Google Map Modal Trigger -->
 {{--                                    <button type="button" class="modal-map" data-toggle="modal" data-target="#cssMapModal">Location  Map</button>--}}
 
-                                    <span class="tel">+375 44 561-39-04</span>
+                                    <span class="tel">+375 25 791 03 07</span>
                                 </address>
 
 
