@@ -582,7 +582,7 @@
                                     Минск
                                     <br>
                                     <br>
-                                    какой то адрес<br>
+                                    Кульман 21Б<br>
 
                                     <!-- Google Map Modal Trigger -->
 {{--                                    <button type="button" class="modal-map" data-toggle="modal" data-target="#cssMapModal">Location  Map</button>--}}
