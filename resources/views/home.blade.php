@@ -265,7 +265,7 @@
                         <div class="col-sm-7 col-xs-12">
                             <h2>ДОБРО ПОЖАЛОВАТЬ!</h2>
 
-                            <p>Служба курьерской доставки «БыстроЛёт» рада приветствовать вас на своем сайте. Будем надеяться, что сотрудничество с нами принесет вам только положительные эмоции и отличное настроение. Знакомьтесь с нашими услугами!</p>
+                            <p>Команда Мосдоставки рада приветствовать вас на своем сайте. Будем надеяться, что сотрудничество с нами принесет вам только положительные эмоции и отличное настроение. Знакомьтесь с нашими услугами!</p>
 
 {{--                            <p>Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi. Proin condimentum fermentum nunc. Etiam pharetra, erat sed fermentum feugiat, velit mauris egestas quam, ut aliquam massa nisl quis neque. Suspendisse in orci enim.</p>--}}
 
