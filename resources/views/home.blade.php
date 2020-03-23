@@ -309,9 +309,9 @@
                                                 </div><!-- /.col-md-6 -->
 
                                                 <div class="col-md-6 content-text">
-                                                    <h3>Continually disintermediate</h3>
+                                                    <h3>Ваша задача - найти курьера для доставки посылки из Москвы? Вы его уже нашли!</h3>
 
-                                                    <p>Credibly build virtual materials for fully researched paradigms. Authoritatively plagiarize long-term high-impact infomediaries with goal-oriented core competencies. Conveniently visualize process-centric applications through leading-edge testing procedures. Quickly build backend customer service for real-time metrics.</p>
+                                                    <p>Например, вы желаете произвести выгодную покупку в одном из фирменных магазинов столицы, а лучше, чтобы ее за вас еще и оплатили. Или хотите получить посылку из-за рубежа и все вопросы упираются в способ ее оплаты и возможность ее доставки в Беларусь. Или вам просто нужно доставить любую посылку из Москвы в РБ или наоборот. Все это мы сделаем за вас.</p>
 
                                                     <p>Efficiently transform an expanded array of methodologies rather than customized infomediaries.</p>
                                                 </div><!-- /.col-md-6 -->
@@ -326,9 +326,9 @@
                                                 </div><!-- /.col-md-6 -->
 
                                                 <div class="col-md-6 content-text">
-                                                    <h3>Continually disintermediate</h3>
+                                                    <h3>Ваша задача - найти курьера для доставки посылки из Москвы? Вы его уже нашли!</h3>
 
-                                                    <p>Credibly build virtual materials for fully researched paradigms. Authoritatively plagiarize long-term high-impact infomediaries with goal-oriented core competencies. Conveniently visualize process-centric applications through leading-edge testing procedures. Quickly build backend customer service for real-time metrics.</p>
+                                                    <p>Например, вы желаете произвести выгодную покупку в одном из фирменных магазинов столицы, а лучше, чтобы ее за вас еще и оплатили. Или хотите получить посылку из-за рубежа и все вопросы упираются в способ ее оплаты и возможность ее доставки в Беларусь. Или вам просто нужно доставить любую посылку из Москвы в РБ или наоборот. Все это мы сделаем за вас.</p>
 
                                                     <p>Efficiently transform an expanded array of methodologies rather than customized infomediaries.</p>
                                                 </div><!-- /.col-md-6 -->
@@ -343,9 +343,9 @@
                                                 </div><!-- /.col-md-6 -->
 
                                                 <div class="col-md-6 content-text">
-                                                    <h3>Continually disintermediate</h3>
+                                                    <h3>Ваша задача - найти курьера для доставки посылки из Москвы? Вы его уже нашли!</h3>
 
-                                                    <p>Credibly build virtual materials for fully researched paradigms. Authoritatively plagiarize long-term high-impact infomediaries with goal-oriented core competencies. Conveniently visualize process-centric applications through leading-edge testing procedures. Quickly build backend customer service for real-time metrics.</p>
+                                                    <p>Например, вы желаете произвести выгодную покупку в одном из фирменных магазинов столицы, а лучше, чтобы ее за вас еще и оплатили. Или хотите получить посылку из-за рубежа и все вопросы упираются в способ ее оплаты и возможность ее доставки в Беларусь. Или вам просто нужно доставить любую посылку из Москвы в РБ или наоборот. Все это мы сделаем за вас.</p>
 
                                                     <p>Efficiently transform an expanded array of methodologies rather than customized infomediaries.</p>
                                                 </div><!-- /.col-md-6 -->
@@ -360,9 +360,9 @@
                                                 </div><!-- /.col-md-6 -->
 
                                                 <div class="col-md-6 content-text">
-                                                    <h3>Continually disintermediate</h3>
+                                                    <h3>Ваша задача - найти курьера для доставки посылки из Москвы? Вы его уже нашли!</h3>
 
-                                                    <p>Credibly build virtual materials for fully researched paradigms. Authoritatively plagiarize long-term high-impact infomediaries with goal-oriented core competencies. Conveniently visualize process-centric applications through leading-edge testing procedures. Quickly build backend customer service for real-time metrics.</p>
+                                                    <p>Например, вы желаете произвести выгодную покупку в одном из фирменных магазинов столицы, а лучше, чтобы ее за вас еще и оплатили. Или хотите получить посылку из-за рубежа и все вопросы упираются в способ ее оплаты и возможность ее доставки в Беларусь. Или вам просто нужно доставить любую посылку из Москвы в РБ или наоборот. Все это мы сделаем за вас.</p>
 
                                                     <p>Efficiently transform an expanded array of methodologies rather than customized infomediaries.</p>
                                                 </div><!-- /.col-md-6 -->
